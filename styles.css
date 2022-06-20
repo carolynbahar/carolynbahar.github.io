@@ -9,3 +9,7 @@
     width: 400px;
     height: auto;
 }
+
+.topPadding {
+    padding-top: 100px;
+}
