@@ -3,8 +3,8 @@ body {
 }
 
 .center {
-    display: block;
     margin: auto;
+    display: block;
 }
 
 .resize {
