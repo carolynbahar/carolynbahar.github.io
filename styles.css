@@ -1,19 +1,17 @@
 body {
     font-family: "Lucida Console", "Courier New", monospace;
+    margin: 0;
+    height: 100%;
 }
 
-.center {
+.logo {
     margin: auto;
     display: block;
-}
-
-.resize {
-    width: 400px;
-    height: auto;
-}
-
-.topPadding {
-    padding-top: 50px;
+    width: 80%;
+    max-width: 400px;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
 }
 
 .bio {
@@ -22,4 +20,11 @@ body {
     margin: 50px;
     max-width: 700px;
     margin: auto;
+}
+
+.websiteInProgress {
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: auto;
+    text-align: center;
 }
