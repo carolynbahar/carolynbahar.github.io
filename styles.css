@@ -2,6 +2,7 @@ body {
     font-family: "Lucida Console", "Courier New", monospace;
     margin: 0;
     height: 100%;
+    padding: 20px;
 }
 
 .logo {
@@ -9,7 +10,6 @@ body {
     display: block;
     width: 80%;
     max-width: 400px;
-    padding-top: 25px;
     padding-left: 25px;
     padding-right: 25px;
 }
